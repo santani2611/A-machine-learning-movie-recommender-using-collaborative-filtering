@@ -1,7 +1,7 @@
 # Movie_recommender_system
 A machine learning movie recommendation system using collaborative filtering. 
 
-Project contributor: Abhimanyu Santani Panda 
+Project contributor: Abhimanyu Santani
 Algorithm used: Collaborative Filtering 
 
 The data-set was taken from kaggle.com and the copy of the data set is present in the repo. 
